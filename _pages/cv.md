@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Statistics, Bocconi University, 2019-Current
+* M.Sc. in Stochastics and Data Science, Università di Torino, 2019.
+* Master in Statistics and Applied Mathematics, Collegio Carlo Alberto, Torino, 2019.
+* B.Sc. in Mathematics fo Finance and Insurance, Università di Torino, 2017.
+* Diploma in Economics, Collegio Carlo Alberto, Torino, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017 - Mar 2018: Research Assistant
+  * Collegio Carlo Alberto
+  * Supervisor: Professor Fenoll
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2017: Teaching Assistant
+  * Università di Torino
+  * Duties included: Tutorship of Numerical Analysis and Probability
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: R, Python, C++, LaTex
+* Software: Matlab, Sas, Stata
+* Languages: Italian (mothertongue), English (C1 - First Certificate in English)
 
-Publications
+Interests and Activities
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reading, playing soccer, rowing.
