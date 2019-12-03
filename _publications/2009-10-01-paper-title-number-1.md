@@ -3,8 +3,8 @@ title: "Predictive inference with Fleming–Viot-driven dependent Dirichlet proc
 collection: publications
 permalink: 
 excerpt: 
-date:
-venue: 
+date: 2019-11-01
+venue: 'Submitted'
 paperurl:
 citation: 'Ascolani F., Lijoi A., Ruggiero M. (2019). &quot;Predictive inference with Fleming–Viot-driven dependent Dirichlet processes.&quot; <i>Submitted 1</i>. 1(1).'
 ---
