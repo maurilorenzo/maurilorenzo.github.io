@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Contributed prerecordered talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (August 2020).
+* Contributed prerecorded talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (August 2020).
 
 * Invited talk at [BAYSM:O](https://j-isba.github.io/baysmo.html) Bayesian Young Statisticians Meeting: Online (November 2020).
 
