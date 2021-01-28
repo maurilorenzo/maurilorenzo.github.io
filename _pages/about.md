@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in Statistics at Bocconi University.
+I am a PhD student in Statistics at Bocconi University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/), [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) and [Matteo Ruggiero](https://www.matteoruggiero.it). Furthermore, I am a member of [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home),a research unit of the Bocconi Institute for Data Science and Analytics [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home), and of the MIDAS [Complex Data Modelling Research Network](https://midas.mat.uc.cl/network/).
 
 Research Interests
 ======
 
-* Bayesian Statistics
-* Bayesian Nonparametrics
-* Machine Learning
+* **Bayesian Statistics**, with a focus on nonparametric methods.
+* Construction and study of priors in the **Bayesian nonparametric** framework, using employing normalized random measures as the main tool.
+* Analysis of **complex data structures**, due for instance to temporal dependence.
