@@ -1,10 +1,15 @@
 ---
-title: "Predictive inference with Fleming–Viot-driven dependent Dirichlet processes"
+title: "Paper Title Number 1"
 collection: publications
-permalink:
-excerpt: 
-date: 2019-11-01
-venue: 'Bayesian Analysis'
-paperurl: [Link]https://projecteuclid.org/download/pdfview_1/euclid.ba/1588125765
-citation: 'Ascolani F., Lijoi A., Ruggiero M. (2020). &quot;Predictive inference with Fleming–Viot-driven dependent Dirichlet processes.&quot; <i> *Bayesian Analysis*, in press.'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
