@@ -23,15 +23,29 @@ Awards
   * Honorable mention
 * Winner of the Silver Medal, awarded to the best student of the M.Sc.’s 2017 cohort.
 
+Teaching experience
+======
+* Teaching assistanhip: M.Sc. [20137](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20137&anno=2021&IdPag=6351) Advanced Statistics for Economics and Social Sciences at Bocconi University (2020-current). 
+* Teaching assistanhip: M.Sc. [20236](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20236&anno=2021&IdPag=6351) Time Series Analysis of Economic-Financial Data at Bocconi University (2020-current).
+* Teaching assistanhip: M.Sc. [20592](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20592&anno=2021&IdPag=6351) Statistics and Probability at Bocconi University (2020-current).
+* Teaching assistanhip: M.Sc. [20605](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20605&anno=2021&IdPag=6351) Machine Learning II at Bocconi University (2020-current).
+* Teaching assistantship: B.Sc. Numerical Analysis and Probability at Università di Torino (2016-2017).
+
+Summer Schools
+======
+* 2018: Bayesian Econometrics, Copenaghen.
+  * Grade A
+* 2017: Advanced Statistics and Data Mining, Madrid.
+  * Modules on *Time Series* and *Bayesian Inference*
+* 2016: Partial differential equations, Lisbon.
+  * Organized by *Gulbenkian Foundation*.
+
+
 Work experience
 ======
 * Fall 2017 - Mar 2018: Research Assistant
   * Collegio Carlo Alberto
   * Supervisor: Professor Fenoll
-
-* Spring 2017: Teaching Assistant
-  * Università di Torino
-  * Duties included: Tutorship of Numerical Analysis and Probability
   
 Skills
 ======
