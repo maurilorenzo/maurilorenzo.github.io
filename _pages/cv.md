@@ -12,10 +12,16 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, Bocconi University, 2019-Current
-* M.Sc. in Stochastics and Data Science, Università di Torino, 2019.
-* Master in Statistics and Applied Mathematics, Collegio Carlo Alberto, Torino, 2019.
-* B.Sc. in Mathematics fo Finance and Insurance, Università di Torino, 2017.
-* Diploma in Economics, Collegio Carlo Alberto, Torino, 2017
+* M.Sc. in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl), Università di Torino, 2019.
+* Master in Statistics and Applied Mathematics, [Collegio Carlo Alberto](https://www.carloalberto.org), Torino, 2019.
+* B.Sc. in [Mathematics fo Finance and Insurance](https://matematicafinanza.campusnet.unito.it/do/home.pl), Università di Torino, 2017.
+* Diploma in Economics, [Collegio Carlo Alberto](https://www.carloalberto.org), Torino, 2017.
+
+Awards
+======
+* Runner-up for 2019 best thesis in Mathematical Statistics, Italian Statistical Society.
+  * Honorable mention
+* Winner of the Silver Medal, awarded to the best student of the M.Sc.’s 2017 cohort.
 
 Work experience
 ======
