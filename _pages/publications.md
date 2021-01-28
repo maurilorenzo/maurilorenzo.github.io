@@ -13,7 +13,7 @@ author_profile: true
 
 * Ascolani, F., Lijoi, A. and Ruggiero, M. (2021)
 **Predictive inference with Fleming-Viot driven dependent Dirichlet processes**
-*Bayesian Analysis*, in press.
+*Bayesian Analysis*, in press ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ba/1588125765)).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
