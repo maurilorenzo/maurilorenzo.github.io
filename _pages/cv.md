@@ -25,10 +25,10 @@ Awards
 
 Teaching experience
 ======
-* Teaching assistanhip: M.Sc. [20137](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20137&anno=2021&IdPag=6351) Advanced Statistics for Economics and Social Sciences at Bocconi University (2020-current). 
-* Teaching assistanhip: M.Sc. [20236](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20236&anno=2021&IdPag=6351) Time Series Analysis of Economic-Financial Data at Bocconi University (2020-current).
-* Teaching assistanhip: M.Sc. [20592](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20592&anno=2021&IdPag=6351) Statistics and Probability at Bocconi University (2020-current).
-* Teaching assistanhip: M.Sc. [20605](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20605&anno=2021&IdPag=6351) Machine Learning II at Bocconi University (2020-current).
+* Teaching assistantship: M.Sc. [20137](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20137&anno=2021&IdPag=6351) Advanced Statistics for Economics and Social Sciences at Bocconi University (2020-current). 
+* Teaching assistantship: M.Sc. [20236](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20236&anno=2021&IdPag=6351) Time Series Analysis of Economic-Financial Data at Bocconi University (2020-current).
+* Teaching assistantship: M.Sc. [20592](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20592&anno=2021&IdPag=6351) Statistics and Probability at Bocconi University (2020-current).
+* Teaching assistantship: M.Sc. [20605](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20605&anno=2021&IdPag=6351) Machine Learning II at Bocconi University (2020-current).
 * Teaching assistantship: B.Sc. Numerical Analysis and Probability at Università di Torino (2016-2017).
 
 Summer Schools
