@@ -14,5 +14,5 @@ Research Interests
 ======
 
 * **Bayesian Statistics**, with a focus on nonparametric methods.
-* Construction and study of priors in the **Bayesian nonparametric** framework, using employing normalized random measures as the main tool.
-* Analysis of **complex data structures**, due for instance to temporal dependence.
+* Construction and study of priors in the **Bayesian nonparametric** framework, employing normalized random measures as the main tool.
+* Analysis of **complex data structures**, due to temporal dependence or other covariates.
