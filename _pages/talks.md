@@ -13,9 +13,11 @@ author_profile: true
 
 {% include base_path %}
 
-* Contributed prerecorded talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (August 2020).
+* Virtual poster presentation at [BISP12](https://bisp12.imati.cnr.it/home_page.php) Bayesian Inference in Stochastic Processes (May 2021).
 
 * Contributed talk at [BAYSM:O](https://j-isba.github.io/baysmo.html) Bayesian Young Statisticians Meeting: Online (November 2020).
+
+* Contributed prerecorded talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (August 2020).
 
 * Poster session at [BNP12](http://www.stats.ox.ac.uk/bnp12/) 12th International Conference on Bayesian Nonparametrics (Oxford, UK, June 2019).
 
