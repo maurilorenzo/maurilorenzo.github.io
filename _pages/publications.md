@@ -12,15 +12,15 @@ author_profile: true
 {% include base_path %}
 
 * Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2021)
-**On the dependence structure in Bayesian nonparametric priors**
+**On the dependence structure in Bayesian nonparametric priors.**
 *Book of Short Papers of the Italian Statistical Society*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/pearson-sis-book-2021-parte-2.pdf)).
 
 * Ascolani, F., Lijoi, A. Ruggiero, M. and Prünster, I. (2021)
-**A framework for filtering in hidden Markov models with normalized random measures**
+**A framework for filtering in hidden Markov models with normalized random measures.**
 *Book of Short Papers of the Italian Statistical Society*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/pearson-sis-book-2021-parte-1.pdf).
 
 * Ascolani, F., Lijoi, A. and Ruggiero, M. (2021)
-**Predictive inference with Fleming-Viot driven dependent Dirichlet processes**
+**Predictive inference with Fleming-Viot driven dependent Dirichlet processes.**
 *Bayesian Anal.*, 16(2): 371-395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ba/1588125765)).
 
 {% for post in site.publications reversed %}
