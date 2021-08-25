@@ -19,9 +19,17 @@ Education
 
 Awards
 ======
+
+* Poster session award at [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php), 2021.
 * Runner-up for 2019 best thesis in Mathematical Statistics, Italian Statistical Society.
   * Honorable mention
 * Winner of the Silver Medal, awarded to the best student of the M.Sc.’s 2017 cohort.
+
+Editorial work
+======
+
+Reviewer for _The Annals of Statistics_, _Statistical Science_, _Statistics and Computing_, _Electronic Journal of Statistics_ and _Computational Statistics & Data Analysis_.
+
 
 Teaching experience
 ======
