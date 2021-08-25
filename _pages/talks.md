@@ -13,6 +13,8 @@ author_profile: true
 
 {% include base_path %}
 
+* Poster presentation (and subsequent award) at [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php) (Juky 2021)
+
 * Contributed talk and poster presentation at [ISBA21](https://events.stat.uconn.edu/ISBA2021/) 2021 World Meeting of the International Society for Bayesian Analysis (July 2021).
 
 * Contributed talk at [ISBA@CIRM](https://sites.google.com/view/isba-at-cirm/junior-sessions) Junior session of ISBA@Cirm (June 2021).
