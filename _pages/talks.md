@@ -17,13 +17,13 @@ author_profile: true
 
 * Invited talk at [Foundations of Objective Bayesian Methodology](https://www.birs.ca/events/2021/5-day-workshops/21w5107) (December 2021).
 
-* Contributed talk at [BAYSM:O](https://events.stat.uconn.edu/BAYSM2021/) Bayesian Young Statisticians Meeting: Online (September 2021).
+* Contributed talk at [BAYSM 2021](https://events.stat.uconn.edu/BAYSM2021/) Bayesian Young Statisticians Meeting (September 2021).
 
 * Poster presentation (with award) at [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php) (July 2021).
 
 * Contributed talk and poster presentation at [ISBA21](https://events.stat.uconn.edu/ISBA2021/) 2021 World Meeting of the International Society for Bayesian Analysis (July 2021).
 
-* Contributed talk at [ISBA@CIRM](https://sites.google.com/view/isba-at-cirm/junior-sessions) Junior session of ISBA@Cirm (June 2021).
+* Contributed talk at [ISBA@CIRM](https://sites.google.com/view/isba-at-cirm/junior-sessions) Junior session of ISBA@Cirm (Marseille, June 2021).
 
 * Invited talk at [EcoSta2021](http://www.cmstatistics.org/EcoSta2021/) 4th International Conference on Econometrics and Statistics (June 2021).
 
