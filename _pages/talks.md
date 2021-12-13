@@ -13,6 +13,12 @@ author_profile: true
 
 {% include base_path %}
 
+* Invited talk at [Current developments in MCMC methods](https://www.impan.pl/en/activities/banach-center/conferences/21-mcmc) (Warsaw, December 2021).
+
+* Invited talk at [Foundations of Objective Bayesian Methodology](https://www.birs.ca/events/2021/5-day-workshops/21w5107) (December 2021).
+
+* Contributed talk at [BAYSM:O](https://events.stat.uconn.edu/BAYSM2021/) Bayesian Young Statisticians Meeting: Online (September 2021).
+
 * Poster presentation (with award) at [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php) (July 2021).
 
 * Contributed talk and poster presentation at [ISBA21](https://events.stat.uconn.edu/ISBA2021/) 2021 World Meeting of the International Society for Bayesian Analysis (July 2021).
