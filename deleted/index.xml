@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deleteds | Lorenzo Mauri</title>
+    <link>https://maurilorenzo.github.io/&#39;/deleted/</link>
+      <atom:link href="https://maurilorenzo.github.io/'/deleted/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deleteds</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://maurilorenzo.github.io/&#39;/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deleteds</title>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/</link>
+    </image>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/publications/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
