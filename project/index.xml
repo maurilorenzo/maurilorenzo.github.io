@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Lorenzo Mauri</title>
-    <link>https://maurilorenzo.github.io/&#39;/project/</link>
-      <atom:link href="https://maurilorenzo.github.io/'/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maurilorenzo.github.io/project/</link>
+      <atom:link href="https://maurilorenzo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://maurilorenzo.github.io/&#39;/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://maurilorenzo.github.io/&#39;/project/</link>
+      <link>https://maurilorenzo.github.io/project/</link>
     </image>
     
     <item>
       <title>The Stochastic Barker Proposal</title>
-      <link>https://maurilorenzo.github.io/&#39;/project/sbp/</link>
+      <link>https://maurilorenzo.github.io/project/sbp/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/&#39;/project/sbp/</guid>
+      <guid>https://maurilorenzo.github.io/project/sbp/</guid>
       <description>&lt;p&gt;Markov chain Monte Carlo (MCMC) algorithms represent the most common method for solving intractable integrals in Bayesian inference. Among this class of algorithms, stochastic gradient MCMC (SGMCMC) have recently gained great attention as they combine scalability to large datasets with a fast exploration of the space. 
 In this thesis, we study the Stochastic Barker proposal, the stochastic gradient version of a recently introduced MCMC algorithm, the Barker scheme that has been shown to outperform standard gradient based MCMC in terms of robustness to hyperparameter tuning. The method presented is compared to the stochastic gradient Langevin dynamics (SGLD) algorithm, a popular SGMCMC. Also in the stochastic case, the Barker Proposal shows greater robustness to hyperparameter tuning when the posterior is irregular and outperforms SGLD in terms of predictive accuracy on real datasets.&lt;/p&gt;
 </description>
@@ -24,27 +24,27 @@ In this thesis, we study the Stochastic Barker proposal, the stochastic gradient
     
     <item>
       <title>Network Visualizer</title>
-      <link>https://maurilorenzo.github.io/&#39;/project/network_visualizer/</link>
+      <link>https://maurilorenzo.github.io/project/network_visualizer/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/&#39;/project/network_visualizer/</guid>
+      <guid>https://maurilorenzo.github.io/project/network_visualizer/</guid>
       <description>&lt;p&gt;Tool to visualize a weighted directed graph in 2D and 3D.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DSGE model</title>
-      <link>https://maurilorenzo.github.io/&#39;/project/dsge/</link>
+      <link>https://maurilorenzo.github.io/project/dsge/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/&#39;/project/dsge/</guid>
+      <guid>https://maurilorenzo.github.io/project/dsge/</guid>
       <description>&lt;p&gt;Simulation of a Dynamic Stochastic General Equilibrium model. The prodcutivity follows an AR(1) in logs. The Solution is derived trought a log-linearization. The model is calibrated to replicate the volatitiy and persistance of the output found by Kydland and Prescott.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dynamic model with Representative Agent</title>
-      <link>https://maurilorenzo.github.io/&#39;/project/ra_model/</link>
+      <link>https://maurilorenzo.github.io/project/ra_model/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/&#39;/project/ra_model/</guid>
+      <guid>https://maurilorenzo.github.io/project/ra_model/</guid>
       <description>&lt;p&gt;Simulation of a Dynamic model with a Representative Agent. Experiments to identify the optimal fiscal policy are performed.&lt;/p&gt;
 </description>
     </item>
