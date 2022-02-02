@@ -12,25 +12,27 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, Bocconi University, 2019-current.
+  * Supervisors: Antonio Lijoi and Igor Prünster. 
 * M.Sc. in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl), Università di Torino, 2019.
-  * Grade: 110/110 cum laude and special mention.
+  * Grade: 110/110 cum laude and special mention. Supervisor: Matteo Ruggiero.
 * Master in Statistics and Applied Mathematics, [Collegio Carlo Alberto](https://www.carloalberto.org), Torino, 2019.
+  * With distinction. 
 * B.Sc. in [Mathematics for Finance and Insurance](https://matematicafinanza.campusnet.unito.it/do/home.pl), Università di Torino, 2017.
-  * Grade: 110/110 cum laude.
+  * Grade: 110/110 cum laude. Supervisor: Cristina Zucca.
 * Diploma in Economics, [Collegio Carlo Alberto](https://www.carloalberto.org), Torino, 2017.
 
 Awards
 ======
 
-* Poster session award at [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php), 2021.
-* Runner-up for 2019 best thesis in Mathematical Statistics, Italian Statistical Society.
-  * Honorable mention
-* Winner of the Silver Medal, awarded to the best student of the M.Sc.’s 2017 cohort.
+* 2021: poster session award at [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php), 2021.
+* 2019: honorable mention for 2019 best M. Sc. thesis in Mathematical Statistics, Italian Statistical Society.
+* 2019: winner of the Silver Medal, awarded to the best student of the M.Sc.’s 2017 cohort.
+* 2014-2019: Allievi Honors Program Scholarship, Collegio Carlo Alberto.
 
 Editorial work
 ======
 
-Reviewer for _The Annals of Statistics_, _Statistical Science_, _Statistics and Computing_, _Electronic Journal of Statistics_ and _Computational Statistics & Data Analysis_.
+Reviewer for _The Annals of Statistics_, _Statistical Science_, _Operations Research_, _Statistics and Computing_, _Electronic Journal of Statistics_, _Scandinavian Journal of Statistics_, _Computational Statistics & Data Analysis_ and _Statistics_.
 
 
 Teaching experience
@@ -43,12 +45,10 @@ Teaching experience
 
 Summer Schools
 ======
-* 2018: Bayesian Econometrics, Copenaghen.
-  * Grade A
-* 2017: Advanced Statistics and Data Mining, Madrid.
-  * Modules on *Time Series* and *Bayesian Inference*
-* 2016: Partial differential equations, Lisbon.
-  * Organized by *Gulbenkian Foundation*.
+* 2018: Bayesian Econometrics, Department of Economics University of Copenaghen, Copenaghen, Denmark.
+* 2017: Advanced Statistics and Data Mining, Universidad Politécnica de Madrid, Madrid, Spain.
+* 2016: Partial differential equations, Gulbenkian Foundation, Lisbon, Portugal.
+* 2015: Alphaclass, University and Politecnico of Turin, Turin, Italy.
 
 
 Work experience
