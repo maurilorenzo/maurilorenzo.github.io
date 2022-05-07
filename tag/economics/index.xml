@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economics | Lorenzo Mauri</title>
-    <link>https://maurilorenzo.github.io/tag/economics/</link>
-      <atom:link href="https://maurilorenzo.github.io/tag/economics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maurilorenzo.github.io/&#39;/tag/economics/</link>
+      <atom:link href="https://maurilorenzo.github.io/'/tag/economics/index.xml" rel="self" type="application/rss+xml" />
     <description>Economics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maurilorenzo.github.io/&#39;/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Economics</title>
-      <link>https://maurilorenzo.github.io/tag/economics/</link>
+      <link>https://maurilorenzo.github.io/&#39;/tag/economics/</link>
     </image>
     
     <item>
       <title>DSGE model</title>
-      <link>https://maurilorenzo.github.io/project/dsge/</link>
+      <link>https://maurilorenzo.github.io/&#39;/project/dsge/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/project/dsge/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/project/dsge/</guid>
       <description>&lt;p&gt;Simulation of a Dynamic Stochastic General Equilibrium model. The prodcutivity follows an AR(1) in logs. The Solution is derived trought a log-linearization. The model is calibrated to replicate the volatitiy and persistance of the output found by Kydland and Prescott.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dynamic model with a Representative Agent</title>
-      <link>https://maurilorenzo.github.io/project/ra_model/</link>
+      <link>https://maurilorenzo.github.io/&#39;/project/ra_model/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/project/ra_model/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/project/ra_model/</guid>
       <description>&lt;p&gt;Simulation of a Dynamic model with a Representative Agent. Experiments to identify the optimal fiscal policy are performed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Static Problem with a Representative Agent</title>
-      <link>https://maurilorenzo.github.io/project/non_linear_static_problem/</link>
+      <title>Static Model with a Representative Agent</title>
+      <link>https://maurilorenzo.github.io/&#39;/project/non_linear_static_problem/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/project/non_linear_static_problem/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/project/non_linear_static_problem/</guid>
       <description>&lt;p&gt;Simulation of a non-linear static model with a Representative Agent. Experiments on different optimal fiscal policies are performed.&lt;/p&gt;
 </description>
     </item>

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorenzo Mauri</title>
-    <link>https://maurilorenzo.github.io/</link>
-      <atom:link href="https://maurilorenzo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maurilorenzo.github.io/&#39;/</link>
+      <atom:link href="https://maurilorenzo.github.io/'/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Mauri</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maurilorenzo.github.io/&#39;/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Lorenzo Mauri</title>
-      <link>https://maurilorenzo.github.io/</link>
+      <link>https://maurilorenzo.github.io/&#39;/</link>
     </image>
     
     <item>
       <title>Skills</title>
-      <link>https://maurilorenzo.github.io/deleted/skills/</link>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/deleted/skills/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://maurilorenzo.github.io/deleted/accomplishments/</link>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/deleted/accomplishments/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://maurilorenzo.github.io/deleted/posts/</link>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/deleted/posts/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://maurilorenzo.github.io/deleted/talks/</link>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/deleted/talks/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://maurilorenzo.github.io/deleted/featured/</link>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/deleted/featured/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://maurilorenzo.github.io/deleted/publications/</link>
+      <link>https://maurilorenzo.github.io/&#39;/deleted/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/deleted/publications/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/deleted/publications/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
@@ -67,9 +67,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://maurilorenzo.github.io/talk/example-talk/</link>
+      <link>https://maurilorenzo.github.io/&#39;/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/talk/example-talk/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -87,9 +87,9 @@
     
     <item>
       <title>The Stochastic Barker Proposal</title>
-      <link>https://maurilorenzo.github.io/project/sbp/</link>
+      <link>https://maurilorenzo.github.io/&#39;/project/sbp/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/project/sbp/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/project/sbp/</guid>
       <description>&lt;p&gt;Markov chain Monte Carlo (MCMC) algorithms represent the most common method for solving intractable integrals in Bayesian inference. Among this class of algorithms, stochastic gradient MCMC (SGMCMC) have recently gained great attention as they combine scalability to large datasets with a fast exploration of the space. 
 In this thesis, we study the Stochastic Barker proposal, the stochastic gradient version of a recently introduced MCMC algorithm, the Barker scheme that has been shown to outperform standard gradient based MCMC in terms of robustness to hyperparameter tuning. The method presented is compared to the stochastic gradient Langevin dynamics (SGLD) algorithm, a popular SGMCMC. Also in the stochastic case, the Barker Proposal shows greater robustness to hyperparameter tuning when the posterior is irregular and outperforms SGLD in terms of predictive accuracy on real datasets.&lt;/p&gt;
 </description>
@@ -97,24 +97,26 @@ In this thesis, we study the Stochastic Barker proposal, the stochastic gradient
     
     <item>
       <title>Network Visualizer</title>
-      <link>https://maurilorenzo.github.io/project/network_visualizer/</link>
+      <link>https://maurilorenzo.github.io/&#39;/project/network_visualizer/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/project/network_visualizer/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/project/network_visualizer/</guid>
       <description>&lt;p&gt;Tool to visualize a weighted directed graph in 2D and 3D.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://maurilorenzo.github.io/post/getting-started/</link>
+      <link>https://maurilorenzo.github.io/&#39;/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/post/getting-started/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
 &lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
 &lt;/ol&gt;
+
+
 
 
 
@@ -183,27 +185,27 @@ In this thesis, we study the Stochastic Barker proposal, the stochastic gradient
     
     <item>
       <title>DSGE model</title>
-      <link>https://maurilorenzo.github.io/project/dsge/</link>
+      <link>https://maurilorenzo.github.io/&#39;/project/dsge/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/project/dsge/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/project/dsge/</guid>
       <description>&lt;p&gt;Simulation of a Dynamic Stochastic General Equilibrium model. The prodcutivity follows an AR(1) in logs. The Solution is derived trought a log-linearization. The model is calibrated to replicate the volatitiy and persistance of the output found by Kydland and Prescott.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dynamic model with a Representative Agent</title>
-      <link>https://maurilorenzo.github.io/project/ra_model/</link>
+      <link>https://maurilorenzo.github.io/&#39;/project/ra_model/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/project/ra_model/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/project/ra_model/</guid>
       <description>&lt;p&gt;Simulation of a Dynamic model with a Representative Agent. Experiments to identify the optimal fiscal policy are performed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://maurilorenzo.github.io/slides/example/</link>
+      <link>https://maurilorenzo.github.io/&#39;/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/slides/example/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -231,11 +233,10 @@ In this thesis, we study the Stochastic Barker proposal, the stochastic gradient
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
@@ -245,11 +246,10 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
   One
 &lt;/span&gt;
@@ -268,12 +268,11 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -307,21 +306,19 @@ $$&lt;/p&gt;
 
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
@@ -329,19 +326,19 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Static Problem with a Representative Agent</title>
-      <link>https://maurilorenzo.github.io/project/non_linear_static_problem/</link>
+      <title>Static Model with a Representative Agent</title>
+      <link>https://maurilorenzo.github.io/&#39;/project/non_linear_static_problem/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/project/non_linear_static_problem/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/project/non_linear_static_problem/</guid>
       <description>&lt;p&gt;Simulation of a non-linear static model with a Representative Agent. Experiments on different optimal fiscal policies are performed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://maurilorenzo.github.io/publication/example/</link>
+      <link>https://maurilorenzo.github.io/&#39;/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/publication/example/</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -358,9 +355,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://maurilorenzo.github.io/admin/config.yml</link>
+      <link>https://maurilorenzo.github.io/&#39;/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/admin/config.yml</guid>
+      <guid>https://maurilorenzo.github.io/&#39;/admin/config.yml</guid>
       <description></description>
     </item>
     
