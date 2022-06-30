@@ -15,4 +15,4 @@ Research Interests
 
 * **Bayesian Statistics**, with a focus on nonparametric methods.
 * Theoretical analysis of **complex data structures**, due to temporal dependence or other covariates.
-* Theory of Bayesian computation.
+* Theory of **Bayesian computation**.
