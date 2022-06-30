@@ -17,17 +17,17 @@ author_profile: true
 
 * Ascolani, F., Lijoi, A. and Ruggiero, M. (2021)
 **Predictive inference with Fleming-Viot driven dependent Dirichlet processes.**
-*Bayesian Anal.*, 16(2): 371-395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ba/1588125765)).
+*Bayesian Anal.*, 16(2): 371-395 ([pdf](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Predictive-inference-with-FlemingViot-driven-dependent-Dirichlet-processes/10.1214/20-BA1206.full)).
+
+* Ascolani, F., Lijoi, A. and Ruggiero, M. (2022+)
+**Smoothing distributions for conditional Fleming--Viot and Dawson--Watanabe diffusions.**
+*Bernoulli*, forthcoming ([pdf](https://arxiv.org/abs/2204.12738)).
 
 **Papers under reviews**
 
 * Ascolani, F., Lijoi, A., Rebaudo, G. and Zanella, G. (2022+)
 **Clustering consistency with Dirichlet process mixtures.**
-*Under Review*.
-
-* Ascolani, F., Lijoi, A. and Ruggiero, M. (2022+)
-**Smoothing distributions for conditional Fleming--Viot and Dawson--Watanabe diffusions.**
-*Under Review*.
+*Under Review* ([pdf](https://arxiv.org/abs/2205.12924)).
 
 * Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2022+)
 **Nonparametric priors with full-range borrowing of information.**
