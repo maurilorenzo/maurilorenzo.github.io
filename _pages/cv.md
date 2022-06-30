@@ -24,6 +24,9 @@ Education
 Awards
 ======
 
+* 2022: IMS Hannan Graduate Student Travel Award.
+* 2022: Travel grant (on competitive basis) for 2022 World Meeting of the International Society for Bayesian Analysis, Montreal, Canada.
+* 2022: Travel grant (on competitive basis) for Bayesian Nonparametrics Networking Workshop, University of Cyprus, Cyprus
 * 2021: poster session award at [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php), 2021.
 * 2019: honorable mention for 2019 best M. Sc. thesis in Mathematical Statistics, Italian Statistical Society.
 * 2019: winner of the Silver Medal, awarded to the best student of the M.Sc.’s 2017 cohort.
