@@ -15,6 +15,8 @@ author_profile: true
 
 **Invited talks**
 
+* [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en), Bologna, Italy (June 13-16, 2022).
+
 * [Current developments in MCMC methods](https://www.impan.pl/en/activities/banach-center/conferences/21-mcmc), Institue of Mathematics, Warsaw, Poland (December 8-11, 2021).
 
 * [Foundations of Objective Bayesian Methodology](https://www.birs.ca/events/2021/5-day-workshops/21w5107), BIRS, Oaxaca, México (November 28 - December 3, 2021).
@@ -22,6 +24,10 @@ author_profile: true
 * [EcoSta2021](http://www.cmstatistics.org/EcoSta2021/) 4th International Conference on Econometrics and Statistics, virtual (June 24-26, 2021).
 
 **Contributed talks**
+
+* [ISBA22](https://isbawebmaster.github.io/ISBA2022/), 2022 World Meeting of the International Society for Bayesian Analysis, Montreal, Canada (June 26 - July 1, 2022).
+
+* [BNP Network 2022](http://cyprusconferences.org/bnp2022/), 2022 Bayesian Nonparametrics Networking Workshop, University of Cyprus, Cyprus (April 25 - 29, 2022).
 
 * [BAYSM 2021](https://events.stat.uconn.edu/BAYSM2021/) Bayesian Young Statisticians Meeting, virtual (September 1-3, 2021).
 
@@ -36,6 +42,8 @@ author_profile: true
 * [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home), virtual (August 24-28, 2020).
 
 **Poster sessions**
+
+* [ISBA22](https://isbawebmaster.github.io/ISBA2022/), 2022 World Meeting of the International Society for Bayesian Analysis, Montreal, Canada (June 26 - July 1, 2022).
 
 * [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php) (best poster award), virtual (July 17-18, 2021).
 
