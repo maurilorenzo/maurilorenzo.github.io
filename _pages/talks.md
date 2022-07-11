@@ -43,6 +43,8 @@ author_profile: true
 
 **Poster sessions**
 
+* [EAC-ISBA22](https://www.eac-isba.org/eacisba2022), 2022 Eastern Chapter of ISBA (best poster award), virtual (July 8-9, 2022)
+
 * [ISBA22](https://isbawebmaster.github.io/ISBA2022/), 2022 World Meeting of the International Society for Bayesian Analysis, Montreal, Canada (June 26 - July 1, 2022).
 
 * [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php) (best poster award), virtual (July 17-18, 2021).
