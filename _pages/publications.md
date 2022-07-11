@@ -41,7 +41,7 @@ author_profile: true
 
 * Ascolani, F., Lijoi, A. Ruggiero, M. and Prünster, I. (2021)
 **A framework for filtering in hidden Markov models with normalized random measures.**
-*Book of Short Papers of the Italian Statistical Society*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/pearson-sis-book-2021-parte-1.pdf).
+*Book of Short Papers of the Italian Statistical Society*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/pearson-sis-book-2021-parte-1.pdf)).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
