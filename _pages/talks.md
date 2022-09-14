@@ -15,6 +15,8 @@ author_profile: true
 
 **Invited talks**
 
+* [24th International Conference on Computational Statistics](http://www.compstat2022.org//index.php), Bologna, Italy (August 23-26, 2022).
+
 * [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en), Bologna, Italy (June 13-16, 2022).
 
 * [Current developments in MCMC methods](https://www.impan.pl/en/activities/banach-center/conferences/21-mcmc), Institue of Mathematics, Warsaw, Poland (December 8-11, 2021).
