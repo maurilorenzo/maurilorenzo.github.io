@@ -25,6 +25,7 @@ Awards
 ======
 
 * 2022: poster session award at [EAC-ISBA22](https://www.eac-isba.org/eacisba2022).
+* 2022: poster session award at  [ISBA22](https://isbawebmaster.github.io/ISBA2022).
 * 2022: IMS Hannan Graduate Student Travel Award.
 * 2022: Travel grant (on competitive basis) for [2022 World Meeting of the International Society for Bayesian Analysis](https://isbawebmaster.github.io/ISBA2022/), Montreal, Canada.
 * 2022: Travel grant (on competitive basis) for [Bayesian Nonparametrics Networking Workshop](http://cyprusconferences.org/bnp2022/), University of Cyprus, Cyprus.
@@ -36,7 +37,7 @@ Awards
 Editorial work
 ======
 
-Reviewer for _The Annals of Statistics_, _Statistical Science_, _Journal of Machine Learning Research_, _Operations Research_, _Statistics and Computing_, _Electronic Journal of Statistics_, _Scandinavian Journal of Statistics_, _Computational Statistics & Data Analysis_ and _Statistics_.
+Reviewer for _The Annals of Statistics_, _Statistical Science_, _Journal of Machine Learning Research_, _Operations Research_, _Statistics and Computing_, _Electronic Journal of Statistics_, _Scandinavian Journal of Statistics_, _Computational Statistics & Data Analysis_, _Statistics_, _Statistics and Probability Letters_.
 
 
 Teaching experience
