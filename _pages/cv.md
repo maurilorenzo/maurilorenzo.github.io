@@ -37,7 +37,7 @@ Awards
 Editorial work
 ======
 
-Reviewer for _The Annals of Statistics_, _Statistical Science_, _Journal of Machine Learning Research_, _Operations Research_, _Statistics and Computing_, _Electronic Journal of Statistics_, _Scandinavian Journal of Statistics_, _Computational Statistics & Data Analysis_, _Statistics_, _Statistics and Probability Letters_.
+Reviewer for _The Annals of Statistics_, _Philosophical Transactions of the Royal Society A_, _Statistical Science_, _Journal of Machine Learning Research_, _Operations Research_, _Statistics and Computing_, _Electronic Journal of Statistics_, _Scandinavian Journal of Statistics_, _Computational Statistics & Data Analysis_, _Statistics_, _Statistics and Probability Letters_.
 
 
 Teaching experience
