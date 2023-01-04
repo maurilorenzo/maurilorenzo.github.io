@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D in Statistics, Bocconi University, 2019-current.
   * Supervisors: Antonio Lijoi and Igor Prünster. 
+  * Topic: Hierarchical structures in Bayesian Statistics.
 * M.Sc. in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl), Università di Torino, 2019.
   * Grade: 110/110 cum laude and special mention. Supervisor: Matteo Ruggiero.
 * Master in Statistics and Applied Mathematics, [Collegio Carlo Alberto](https://www.carloalberto.org), Torino, 2019.
@@ -24,9 +25,9 @@ Education
 Awards
 ======
 
+* 2022: IMS Hannan Graduate Student Travel Award.
 * 2022: poster session award at [EAC-ISBA22](https://www.eac-isba.org/eacisba2022).
 * 2022: poster session award at  [ISBA22](https://isbawebmaster.github.io/ISBA2022).
-* 2022: IMS Hannan Graduate Student Travel Award.
 * 2022: Travel grant (on competitive basis) for [2022 World Meeting of the International Society for Bayesian Analysis](https://isbawebmaster.github.io/ISBA2022/), Montreal, Canada.
 * 2022: Travel grant (on competitive basis) for [Bayesian Nonparametrics Networking Workshop](http://cyprusconferences.org/bnp2022/), University of Cyprus, Cyprus.
 * 2021: poster session award at [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php).
@@ -42,6 +43,7 @@ Reviewer for _The Annals of Statistics_, _Philosophical Transactions of the Roya
 
 Teaching experience
 ======
+* Teaching assistantship: B.Sc. [30408](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30408&anno=2023&IdPag=6896) Advanced Statitical Methods at Bocconi University (2020-current). 
 * Teaching assistantship: M.Sc. [20137](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20137&anno=2021&IdPag=6351) Advanced Statistics for Economics and Social Sciences at Bocconi University (2020-current). 
 * Teaching assistantship: M.Sc. [20236](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20236&anno=2021&IdPag=6351) Time Series Analysis of Economic-Financial Data at Bocconi University (2020-current).
 * Teaching assistantship: M.Sc. [20592](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20592&anno=2021&IdPag=6351) Statistics and Probability at Bocconi University (2020-current).
