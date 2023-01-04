@@ -51,7 +51,7 @@ Teaching experience
 * Teaching assistantship: B.Sc. Numerical Analysis and Probability at Università di Torino (2016-2017).
 
 
-Teaching experience
+Professional Activities
 ======
 
 * 2023-current: Board Member, [Young Italian Statistical Society](https://youngsis.github.io/).
