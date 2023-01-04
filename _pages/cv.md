@@ -50,6 +50,13 @@ Teaching experience
 * Teaching assistantship: M.Sc. [20605](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20605&anno=2021&IdPag=6351) Machine Learning II at Bocconi University (2020-current).
 * Teaching assistantship: B.Sc. Numerical Analysis and Probability at Università di Torino (2016-2017).
 
+
+Teaching experience
+======
+
+* 2023-current: Board Member, [Young Italian Statistical Society](https://youngsis.github.io/).
+* 2021-current: Coordinator, biweekly internal seminar series, Bocconi BayesLab (Milano, Italy).
+
 Summer Schools
 ======
 * 2018: Bayesian Econometrics, Department of Economics University of Copenaghen, Copenaghen, Denmark.
