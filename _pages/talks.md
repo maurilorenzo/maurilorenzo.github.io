@@ -15,6 +15,8 @@ author_profile: true
 
 **Invited talks**
 
+* Seminar of [All about that Bayes](https://sites.google.com/view/all-about-that-bayes/) series, INRIA, Grenoble, France (November 8, 2022).
+
 * [24th International Conference on Computational Statistics](http://www.compstat2022.org//index.php), Bologna, Italy (August 23-26, 2022).
 
 * [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en), Bologna, Italy (June 13-16, 2022).
@@ -26,6 +28,8 @@ author_profile: true
 * [EcoSta2021](http://www.cmstatistics.org/EcoSta2021/) 4th International Conference on Econometrics and Statistics, virtual (June 24-26, 2021).
 
 **Contributed talks**
+
+* [Bayes Comp 2023](https://bayescomp2023.com/), 2023 Meeting of the computational section of the International Society for Bayesian Analysis, Levi, Finland (March 15-17, 2023).
 
 * [ISBA22](https://isbawebmaster.github.io/ISBA2022/), 2022 World Meeting of the International Society for Bayesian Analysis, Montreal, Canada (June 26 - July 1, 2022).
 
@@ -45,11 +49,11 @@ author_profile: true
 
 **Poster sessions**
 
-* [EAC-ISBA22](https://www.eac-isba.org/eacisba2022), 2022 Eastern Chapter of ISBA (best poster award), virtual (July 8-9, 2022)
+* [EAC-ISBA22](https://www.eac-isba.org/eacisba2022), 2022 Eastern Chapter of ISBA (**best poster award**), virtual (July 8-9, 2022)
 
-* [ISBA22](https://isbawebmaster.github.io/ISBA2022/), 2022 World Meeting of the International Society for Bayesian Analysis, Montreal, Canada (June 26 - July 1, 2022).
+* [ISBA22](https://isbawebmaster.github.io/ISBA2022/), 2022 World Meeting of the International Society for Bayesian Analysis (**best poster award**), Montreal, Canada (June 26 - July 1, 2022).
 
-* [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php) (best poster award), virtual (July 17-18, 2021).
+* [Bernoulli - IMS Young Researcher Meeting 2021](https://www.wc2020.org/sub03_04.php) (**best poster award**), virtual (July 17-18, 2021).
 
 * [ISBA21](https://events.stat.uconn.edu/ISBA2021/) 2021 World Meeting of the International Society for Bayesian Analysis, virtual (June 28 - July 2, 2021).
 
