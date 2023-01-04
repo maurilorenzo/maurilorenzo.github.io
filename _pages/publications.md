@@ -29,9 +29,20 @@ author_profile: true
 
 **Papers under reviews**
 
-* Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2022+)
+* Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2023+)
 **Nonparametric priors with full-range borrowing of information.**
 *Under Review*.
+
+**Ongoing Projects**
+
+* Ascolani, F., Lijoi, A. and Prünster, I. (2023+)
+**Trees of random probability measures and Bayesian nonparametric modelling.**
+*Working Paper*.
+
+* Ascolani, F. and Zanella, G. (2023+)
+**Complexity of Gibbs samplers through Bayesian asymptotics.**
+*Working paper*.
+
 
 **Discussions and Conference Proceedings**
 
