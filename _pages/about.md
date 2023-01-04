@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistics at Bocconi University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/), [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) and [Matteo Ruggiero](https://www.matteoruggiero.it). Furthermore, I am a member of [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home), a research unit of the Bocconi Institute for Data Science and Analytics [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home), and of the MIDAS [Complex Data Modelling Research Network](https://midas.mat.uc.cl/network/). From January 2023 I am Board member of the [Young Italian Statistical Society](https://youngsis.github.io/).
+I am a PhD student in Statistics at Bocconi University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/), [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) and [Matteo Ruggiero](https://www.matteoruggiero.it). Furthermore, I am a member of [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home), a research unit of the Bocconi Institute for Data Science and Analytics [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home), and of the MIDAS [Complex Data Modelling Research Network](https://midas.mat.uc.cl/network/). From January 2023 I am board member of the [Young Italian Statistical Society](https://youngsis.github.io/).
 
 Research Interests
 ======
