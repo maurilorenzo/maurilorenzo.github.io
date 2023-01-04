@@ -33,7 +33,12 @@ author_profile: true
 **Nonparametric priors with full-range borrowing of information.**
 *Under Review*.
 
-**Proceedings**
+**Discussions and Conference Proceedings**
+
+* Ascolani, F., Catalano, M., Prünster, I. (2022). 
+Discussion of **Evaluating sensitivity to the stick-breaking prior in Bayesian nonparametrics** by Giordano, R., Liu, R., Jordan, M.
+I., and Broderick, T. 
+*Bayesian Analysis*, 1 (1), 1-34 ([pdf](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Evaluating-Sensitivity-to-the-Stick-Breaking-Prior-in-Bayesian-Nonparametrics/10.1214/22-BA1309.full)).
 
 * Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2021)
 **On the dependence structure in Bayesian nonparametric priors.**
