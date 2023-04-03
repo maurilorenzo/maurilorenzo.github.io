@@ -19,9 +19,9 @@ author_profile: true
 **Clustering consistency with Dirichlet process mixtures.**
 *Biometrika*, forthcoming ([pdf](https://arxiv.org/abs/2205.12924)).
 
-* Ascolani, F., Lijoi, A. and Ruggiero, M. (2022+)
+* Ascolani, F., Lijoi, A. and Ruggiero, M. (2023)
 **Smoothing distributions for conditional Fleming--Viot and Dawson--Watanabe diffusions.**
-*Bernoulli*, forthcoming ([pdf](https://arxiv.org/abs/2204.12738)).
+*Bernoulli*, 29(2): 1410-1434 ([pdf](https://arxiv.org/abs/2204.12738)).
 
 * Ascolani, F., Lijoi, A. and Ruggiero, M. (2021)
 **Predictive inference with Fleming-Viot driven dependent Dirichlet processes.**
