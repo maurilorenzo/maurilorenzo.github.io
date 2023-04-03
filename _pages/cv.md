@@ -25,6 +25,7 @@ Education
 Awards
 ======
 
+* 2023: ASA-SBSS Student Paper Competition.
 * 2022: IMS Hannan Graduate Student Travel Award.
 * 2022: poster session award at [EAC-ISBA22](https://www.eac-isba.org/eacisba2022).
 * 2022: poster session award at  [ISBA22](https://isbawebmaster.github.io/ISBA2022).
