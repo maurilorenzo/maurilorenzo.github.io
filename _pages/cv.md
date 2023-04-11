@@ -26,6 +26,7 @@ Awards
 ======
 
 * 2023: ASA-SBSS Student Paper Competition.
+* 2023: Travel grant (on competitive basis) for [2023 Meeting of the computational section of the International Society for Bayesian Analysis](https://bayescomp2023.com/), Levi, Finland.
 * 2022: IMS Hannan Graduate Student Travel Award.
 * 2022: poster session award at [EAC-ISBA22](https://www.eac-isba.org/eacisba2022).
 * 2022: poster session award at  [ISBA22](https://isbawebmaster.github.io/ISBA2022).
