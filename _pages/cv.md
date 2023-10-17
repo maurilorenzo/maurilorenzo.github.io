@@ -25,6 +25,7 @@ Education
 Awards
 ======
 
+* 2023: IMS Lawrence D. Brown Ph.D. Student Award.
 * 2023: ASA-SBSS Student Paper Competition.
 * 2023: Travel grant (on competitive basis) for [2023 Meeting of the computational section of the International Society for Bayesian Analysis](https://bayescomp2023.com/), Levi, Finland.
 * 2022: IMS Hannan Graduate Student Travel Award.
@@ -40,7 +41,7 @@ Awards
 Editorial work
 ======
 
-Reviewer for _The Annals of Statistics_, _Philosophical Transactions of the Royal Society A_, _Statistical Science_, _Journal of Machine Learning Research_, _Operations Research_, _Statistics and Computing_, _Electronic Journal of Statistics_, _Scandinavian Journal of Statistics_, _Computational Statistics & Data Analysis_, _Statistics_, _REVSTAT_, _Statistics and Probability Letters_.
+Reviewer for _The Annals of Statistics_, _Philosophical Transactions of the Royal Society A_, _Statistical Science_, _Journal of Machine Learning Research_, _Operations Research_, _Statistics and Computing_, _Electronic Journal of Statistics_, _Scandinavian Journal of Statistics_, _Computational Statistics & Data Analysis_, _Statistics_, _REVSTAT_, _Statistics and Probability Letters_, _Bayesian Analysis_
 
 
 Teaching experience
