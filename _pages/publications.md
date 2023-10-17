@@ -55,8 +55,6 @@ Discussion of **Evaluating sensitivity to the stick-breaking prior in Bayesian n
 I., and Broderick, T. 
 *Bayesian Anal.*, 1 (1), 1-34 ([pdf](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Evaluating-Sensitivity-to-the-Stick-Breaking-Prior-in-Bayesian-Nonparametrics/10.1214/22-BA1309.full)).
 
-Ascolani, F., Ghidini, V., (2023) Posterior clustering for Dirichlet Process Mixtures of Gaussians with constant data, Book of Short Papers CLADAG 2023, 42-45
-
 * Ascolani, F. and Ghidini, V. (2023)
 **Posterior clustering for Dirichlet Process Mixtures of Gaussians with constant data.**
 *Book of Short Papers CLADAG 2023*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/CLADAG-2023.pdf)).
