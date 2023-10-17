@@ -15,6 +15,12 @@ author_profile: true
 
 **Invited talks**
 
+* [ISBA2024](https://www.unive.it/web/en/2208/home), World Meeting of the International Society for Bayesian Analysis, Venezia, Italy (July 1-7, 2024).
+
+* [Cladag 2023](https://www.statlab-unisa.it/cladag2023/) CLAssification and Data Analysis Group of the Italian Statistical Society, Salerno, Italy (September 11-13, 2023).
+
+* [SEAS IN 2023](https://meetings3.sis-statistica.org/index.php/ancona/index/pages/view/program) Statistical LEArning Sustainability and Impact Evaluation, Ancona, Italy (June 21-23, 2023).
+
 * Seminar of [All about that Bayes](https://sites.google.com/view/all-about-that-bayes/) series, INRIA, Grenoble, France (November 8, 2022).
 
 * [24th International Conference on Computational Statistics](http://www.compstat2022.org//index.php), Bologna, Italy (August 23-26, 2022).
@@ -28,6 +34,8 @@ author_profile: true
 * [EcoSta2021](http://www.cmstatistics.org/EcoSta2021/) 4th International Conference on Econometrics and Statistics, virtual (June 24-26, 2021).
 
 **Contributed talks**
+
+* [JSM2023](https://ww2.amstat.org/meetings/jsm/2023/), Joint Statistical Meeting, Toronto, Canada (August 5-10, 2023)
 
 * [Bayes Comp 2023](https://bayescomp2023.com/), 2023 Meeting of the computational section of the International Society for Bayesian Analysis, Levi, Finland (March 15-17, 2023).
 
@@ -49,7 +57,9 @@ author_profile: true
 
 **Poster sessions**
 
-* [EAC-ISBA22](https://www.eac-isba.org/eacisba2022), 2022 Eastern Chapter of ISBA (**best poster award**), virtual (July 8-9, 2022)
+* [Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html), CIRM, Marseille, France (June 19-23, 2023).
+
+* [EAC-ISBA22](https://www.eac-isba.org/eacisba2022), 2022 Eastern Chapter of ISBA (**best poster award**), virtual (July 8-9, 2022).
 
 * [ISBA22](https://isbawebmaster.github.io/ISBA2022/), 2022 World Meeting of the International Society for Bayesian Analysis (**best poster award**), Montreal, Canada (June 26 - July 1, 2022).
 
