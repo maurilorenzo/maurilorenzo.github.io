@@ -62,9 +62,9 @@ Teaching experience
 Professional Activities
 ======
 
-* 2024-current: Board Member, [junior section of the International Society for Bayesian Analysis](https://j-isba.github.io/).
-* 2023-current: Board Member, [Young Italian Statistical Society](https://youngsis.github.io/).
-* 2021-current: Coordinator, biweekly internal seminar series, Bocconi BayesLab (Milano, Italy).
+* 2024-current: Board Member, Junior Section of the International Society for Bayesian Analysis ([j_ISBA](https://j-isba.github.io/)).
+* 2023-current: Board Member, Young Italian Statistical Society ([y-SIS](https://youngsis.github.io/)).
+* 2021-2024: Coordinator, bimonthly internal seminar series, Bocconi BayesLab (Milano, Italy).
 
 Summer Schools
 ======
