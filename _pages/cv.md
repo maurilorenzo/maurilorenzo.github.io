@@ -11,7 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Bocconi University, 2019-current.
+
+2024-current: Lecturer of Statistical Science, Duke University.
+
+Education
+======
+* Ph.D in Statistics, Bocconi University, 2019-2024.
   * Supervisors: Antonio Lijoi and Igor Prünster. 
   * Topic: Hierarchical structures in Bayesian Statistics.
 * M.Sc. in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl), Università di Torino, 2019.
