@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic positions
 ======
 
 July 2024 - onwards: Assistant Professor in Statistical Science, Duke University.
