@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 
-2024-current: Lecturer of Statistical Science, Duke University.
+July 2024 - onwards: Assistant Professor in Statistical Science, Duke University.
+January - July 2024: Lecturer in Statistical Science, Duke University.
 
 Education
 ======
@@ -30,10 +31,10 @@ Education
 Awards
 ======
 
-* 2023: IMS Lawrence D. Brown Ph.D. Student Award.
-* 2023: ASA-SBSS Student Paper Competition.
+* 2023: [IMS Lawrence D. Brown Ph.D. Student Award](https://imstat.org/2023/09/30/2024-lawrence-d-brown-phd-student-award-winners/).
+* 2023: [ASA-SBSS Student Paper Competition](https://www.knowledge.unibocconi.eu/notizia.php?idArt=24297).
 * 2023: Travel grant (on competitive basis) for [2023 Meeting of the computational section of the International Society for Bayesian Analysis](https://bayescomp2023.com/), Levi, Finland.
-* 2022: IMS Hannan Graduate Student Travel Award.
+* 2022: [IMS Hannan Graduate Student Travel Award](https://imstat.org/2022/05/05/recipients-of-the-2022-ims-hannan-graduate-student-travel-awards-announced/).
 * 2022: poster session award at [EAC-ISBA22](https://www.eac-isba.org/eacisba2022).
 * 2022: poster session award at  [ISBA22](https://isbawebmaster.github.io/ISBA2022).
 * 2022: Travel grant (on competitive basis) for [2022 World Meeting of the International Society for Bayesian Analysis](https://isbawebmaster.github.io/ISBA2022/), Montreal, Canada.
@@ -73,12 +74,6 @@ Summer Schools
 * 2016: Partial differential equations, Gulbenkian Foundation, Lisbon, Portugal.
 * 2015: Alphaclass, University and Politecnico of Turin, Turin, Italy.
 
-
-Work experience
-======
-* Fall 2017 - Mar 2018: Research Assistant
-  * Collegio Carlo Alberto
-  * Supervisor: Professor Fenoll
   
 Skills
 ======
