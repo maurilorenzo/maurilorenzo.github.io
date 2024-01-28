@@ -12,8 +12,8 @@ redirect_from:
 Academic positions
 ======
 
-July 2024 - onwards: Assistant Professor in Statistical Science, Duke University.
-January - July 2024: Lecturer in Statistical Science, Duke University.
+* July 2024 - onwards: Assistant Professor in Statistical Science, Duke University.
+* January - July 2024: Lecturer in Statistical Science, Duke University.
 
 Education
 ======
