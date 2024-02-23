@@ -61,7 +61,6 @@ I., and Broderick, T.
 **Linear models with assumptions-free residuals: a Bayesian Nonparametric approach**
 *Book of short papers SEAS IN 2023*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso-new1.pdf)).
 
-"Mixing Times of a Gibbs Sampler for Probit Hierarchical Models." International Conference on Bayesian Statistics in Action
 * Ascolani, F. (2022)
 **Mixing Times of a Gibbs Sampler for Probit Hierarchical Models.**
 *International Conference on Bayesian Statistics in Action*, Springer ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_7)).
