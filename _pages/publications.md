@@ -27,7 +27,7 @@ author_profile: true
 *Biometrika*, 110(2), 551-558 ([pdf](https://arxiv.org/abs/2205.12924)).
 
 * Ascolani, F., Lijoi, A. and Ruggiero, M. (2023)
-**Smoothing distributions for conditional Fleming--Viot and Dawson--Watanabe diffusions.**
+**Smoothing distributions for conditional Fleming-Viot and Dawson-Watanabe diffusions.**
 *Bernoulli*, 29(2): 1410-1434 ([pdf](https://arxiv.org/abs/2204.12738)).
 
 * Ascolani, F., Lijoi, A. and Ruggiero, M. (2021)
