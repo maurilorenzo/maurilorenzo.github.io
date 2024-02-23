@@ -12,10 +12,13 @@ author_profile: true
 
 {% include base_path %}
 
-
 **Journals**
 
-* Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2023+)
+* Ascolani, F. and Zanella, G. (2024)
+**Dimension-free mixing times of Gibbs samplers for Bayesian hierarchical models**
+*Ann. Stat.*, forthcoming ([pdf](https://arxiv.org/abs/2304.06993)).
+
+* Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2023)
 **Nonparametric priors with full-range borrowing of information.**
 *Biometrika*, forthcoming ([pdf](https://arxiv.org/abs/2310.00617)).
 
@@ -31,15 +34,9 @@ author_profile: true
 **Predictive inference with Fleming-Viot driven dependent Dirichlet processes.**
 *Bayesian Anal.*, 16(2): 371-395 ([pdf](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Predictive-inference-with-FlemingViot-driven-dependent-Dirichlet-processes/10.1214/20-BA1206.full)).
 
-**Papers under reviews**
-
-* Ascolani, F. and Zanella, G. (2023+)
-**Complexity of Gibbs samplers through Bayesian asymptotics.**
-*Under Review* ([pdf](https://arxiv.org/abs/2304.06993)).
-
 **Ongoing Projects**
 
-* Ascolani, F., Lijoi, A. and Prünster, I. (2023+)
+* Ascolani, F., Lijoi, A. and Prünster, I. (2024+)
 **Trees of random probability measures and Bayesian nonparametric modelling.**
 *Working Paper*.
 
