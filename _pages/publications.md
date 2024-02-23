@@ -15,7 +15,7 @@ author_profile: true
 **Journals**
 
 * Ascolani, F. and Zanella, G. (2024)
-**Dimension-free mixing times of Gibbs samplers for Bayesian hierarchical models**
+**Dimension-free mixing times of Gibbs samplers for Bayesian hierarchical models.**
 *Ann. Stat.*, forthcoming ([pdf](https://arxiv.org/abs/2304.06993)).
 
 * Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2023)
