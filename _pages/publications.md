@@ -43,14 +43,15 @@ author_profile: true
 
 **Discussions and Conference Proceedings**
 
-* Ascolani, F., Lijoi, A., Prünster, I. (2022). 
+* Ascolani, F., Lijoi, A., Prünster, I. (2023). 
 Discussion of **Martingale Posterior Distribution** by Fong, E., Holmes, C and Walker, S. G. 
-*J. R. Stat. Soc. Series B*, forthcoming.
+*J. R. Stat. Soc. Series B*, 85 (5), 1357-1391.
 
 * Ascolani, F., Catalano, M., Prünster, I. (2022). 
 Discussion of **Evaluating sensitivity to the stick-breaking prior in Bayesian nonparametrics** by Giordano, R., Liu, R., Jordan, M.
 I., and Broderick, T. 
 *Bayesian Anal.*, 1 (1), 1-34 ([pdf](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Evaluating-Sensitivity-to-the-Stick-Breaking-Prior-in-Bayesian-Nonparametrics/10.1214/22-BA1309.full)).
+
 
 * Ascolani, F. and Ghidini, V. (2023)
 **Posterior clustering for Dirichlet Process Mixtures of Gaussians with constant data.**
@@ -59,6 +60,11 @@ I., and Broderick, T.
 * Ascolani, F. and Ghidini, V. (2023)
 **Linear models with assumptions-free residuals: a Bayesian Nonparametric approach**
 *Book of short papers SEAS IN 2023*, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso-new1.pdf)).
+
+"Mixing Times of a Gibbs Sampler for Probit Hierarchical Models." International Conference on Bayesian Statistics in Action
+* Ascolani, F. (2022)
+**Mixing Times of a Gibbs Sampler for Probit Hierarchical Models.**
+*International Conference on Bayesian Statistics in Action*, Springer ([pdf](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_7)).
 
 * Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2021)
 **On the dependence structure in Bayesian nonparametric priors.**
