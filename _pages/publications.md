@@ -16,7 +16,7 @@ author_profile: true
 
 * Ascolani, F. and Zanella, G. (2024)
 **Dimension-free mixing times of Gibbs samplers for Bayesian hierarchical models.**
-*Ann. Stat.*, forthcoming ([pdf](https://arxiv.org/abs/2304.06993)).
+*The Annals of Statistics*, forthcoming ([pdf](https://arxiv.org/abs/2304.06993)).
 
 * Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2023)
 **Nonparametric priors with full-range borrowing of information.**
@@ -32,7 +32,13 @@ author_profile: true
 
 * Ascolani, F., Lijoi, A. and Ruggiero, M. (2021)
 **Predictive inference with Fleming-Viot driven dependent Dirichlet processes.**
-*Bayesian Anal.*, 16(2): 371-395 ([pdf](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Predictive-inference-with-FlemingViot-driven-dependent-Dirichlet-processes/10.1214/20-BA1206.full)).
+*Bayesian Analysis*, 16(2): 371-395 ([pdf](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Predictive-inference-with-FlemingViot-driven-dependent-Dirichlet-processes/10.1214/20-BA1206.full)).
+
+**Submitted**
+
+* Ascolani, F., Roberts, G. O. and Zanella, G. (2024+)
+**Scalability of Metropolis-within-Gibbs schemes for high-dimensional Bayesian models.**
+*Submitted*.
 
 **Ongoing Projects**
 
