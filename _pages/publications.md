@@ -49,6 +49,10 @@ author_profile: true
 
 **Discussions and Conference Proceedings**
 
+* Ascolani, F., Lijoi, A., Prünster, I. (2024). 
+Discussion of **Root and community inference on the latent growth process of a network** by Crane, H. and Xu, M.
+*J. R. Stat. Soc. Series B*, 85 (5), 1357-1391.
+
 * Ascolani, F., Lijoi, A., Prünster, I. (2023). 
 Discussion of **Martingale Posterior Distribution** by Fong, E., Holmes, C and Walker, S. G. 
 *J. R. Stat. Soc. Series B*, 85 (5), 1357-1391.
