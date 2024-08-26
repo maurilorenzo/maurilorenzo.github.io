@@ -20,6 +20,6 @@ Feel free to contact me at lorenzo[dot]mauri[at]duke[dot]edu.
 Research Interests
 ======
 
-* **Dimensionality Reduction** and Latent Factor Models
+* **Dimensionality Reduction** and **Latent Factor Models**
 * **Nonparametric Regression** and **Density Estimation**
 * **Generalized Bayes**
