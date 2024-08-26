@@ -20,7 +20,7 @@ Education
   * Visiting Student at the BayesLab. Supervisors: Daniele Durante and Igor Prünster.
 * B.Sc. in Economics, Bocconi University, 2021.
   * Grade: 110/110 cum laude. 
-  * Exchange Semester at University of Pennsylvania (GPA 4/4).
+  * Exchange Semester at the University of Pennsylvania (GPA 4/4).
 
 Scholarships
 ======
