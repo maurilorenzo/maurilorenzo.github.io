@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Filippo Ascolani"
+title: "Lorenzo Mauri"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Department of Statistical Science at [Duke University](https://stat.duke.edu/) and I have recently completed my PhD in Statistics at Bocconi University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/), [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) and [Matteo Ruggiero](https://www.matteoruggiero.it).
+I am a PhD Candidate in the [Dept. of Statistical Science](https://stat.duke.edu/) at Duke University working with [David B. Dunson](https://www.daviddunson.com/) and [Surya T. Tokdar](https://www2.stat.duke.edu/~st118/). Broadly speaking, I am interested in the intersection between Bayesian Inference and Probabilistic Machine Learning.
+Currently, I am working on Bayesian Factor Models for High-dimensional data and Nonparametric Density Estimation. 
 
-Furthermore, I am a member of [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home), a research unit of the Bocconi Institute for Data Science and Analytics [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home), and of the ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) at [Collegio Carlo Alberto](https://www.carloalberto.org/). I am currently Secretary of the [Young Italian Statistical Society](https://youngsis.github.io/) and Program Chair of [j-ISBA](https://j-isba.github.io/).
+Prior to Duke, I completed a MSc in Data Science at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home), where I was a member of the [BayesLab](https://bayeslab.unibocconi.eu/) and was advised by [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home), with a thesis on stochastic gradient MCMC.
+
+
+Feel free to contact me at lorenzo[dot]mauri[at]duke[dot]edu.
+
 
 Research Interests
 ======
 
-* **Bayesian Statistics**, with a focus on nonparametric methods.
-* Theoretical analysis of **complex data structures**, due to temporal dependence or other covariates.
-* Theory of **Bayesian computation**.
+* **Dimensionality Reduction** and Latent Factor Models
+* **Nonparametric Regression** and **Density Estimation**
+* **Generalized Bayes**
