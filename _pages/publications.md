@@ -22,7 +22,6 @@ author_profile: true
 
 * Mauri, L. and Dunson, D., B. (2024+).
 **Factor pre-training in Bayesian multivariate logistic models.**
-*Submitted*.
 
 **Ongoing Projects**
 
