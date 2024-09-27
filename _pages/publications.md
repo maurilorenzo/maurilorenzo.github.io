@@ -16,13 +16,13 @@ author_profile: true
 
 * Mauri, L. and Zanella, G. (2024).
 **Robust Approximate Sampling via Stochastic Gradient Barker Dynamics.**
-*International Conference on Artificial Intelligence and Statistics (AISTATS)*, Oral Presentation (2% of submissions) [pdf](https://proceedings.mlr.press/v238/mauri24a/mauri24a.pdf).
+*International Conference on Artificial Intelligence and Statistics (AISTATS)*, Oral Presentation (2% of submissions) ([pdf](https://proceedings.mlr.press/v238/mauri24a/mauri24a.pdf)).
 
 **Preprints**
 
 * Mauri, L. and Dunson, D. B. (2024+).
 **Factor pre-training in Bayesian multivariate logistic models.**
-*Submitted* [arxiv](https://arxiv.org/abs/2409.17441).
+*Submitted* ([arxiv](https://arxiv.org/abs/2409.17441)).
 
 **Ongoing Projects**
 
