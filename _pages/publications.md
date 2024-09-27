@@ -20,20 +20,21 @@ author_profile: true
 
 **Preprints**
 
-* Mauri, L. and Dunson, D., B. (2024+).
+* Mauri, L. and Dunson, D. B. (2024+).
 **Factor pre-training in Bayesian multivariate logistic models.**
+*Submitted* [arxiv](https://arxiv.org/abs/2409.17441).
 
 **Ongoing Projects**
 
-* Mauri, L. Tokdar, S. T. and Wang, H. (2024+). 
+* Mauri, L., Tokdar, S. T. and Wang, H. (2024+). 
 **Bayesian Density Estimation via the Tree-Logistic Gaussian Process Prior.**
 *Working Paper*.
 
-* Mauri, L. Anceschi, N., and Dunson, D., B. (2024+).
-**Latent Factors Pre-Training for Fast and Accurate Inference in Multi-Study Scenarios.**
+* Mauri, L., Anceschi, N., and Dunson, D. B. (2024+).
+**Latent Factors Pre-Training for Bayesian multi-study factor models.**
 *Working Paper*.
 
-* Mauri, L. and Dunson, D., B. (2024+),
+* Mauri, L. and Dunson, D. B. (2024+),
 **Generalized Bayesian Kernel Similarity for Supervised Dimensionality Reduction.**
 *Working Paper*.
 
