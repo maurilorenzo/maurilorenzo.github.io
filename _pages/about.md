@@ -21,5 +21,6 @@ Research Interests
 ======
 
 * **Dimensionality Reduction** and **Latent Factor Models**
+* **Scalable Bayesian Computation**
 * **Nonparametric Regression** and **Density Estimation**
 * **Generalized Bayes**
