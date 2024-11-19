@@ -31,7 +31,7 @@ author_profile: true
 *Working Paper*.
 
 * Mauri, L., Anceschi, N., and Dunson, D. B. (2024+).
-**Latent Factors Pre-Training for Bayesian multi-study factor models.**
+**Spectral decompositions-assisted Bayesian multi-study factor models.**
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2024+),
