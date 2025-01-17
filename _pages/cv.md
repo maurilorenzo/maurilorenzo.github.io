@@ -32,6 +32,7 @@ Teaching Experience
 * TA and Lab Instructor for Advanced Data Visualization (DUKE STA - 313), Spring '23. *Honorable Mention for TA of the year*
 * TA for Theory of Statistical Inference (DUKE STA - 532), Spring '24.
 * Instructor for Duke Statistical Science Master Students Math Bootcamp, Summer '24.
+* TA for Theory and Methods of Statistical Learning and Inference (DUKE STA - 432), Spring '25.
 
 
 Professional Experience

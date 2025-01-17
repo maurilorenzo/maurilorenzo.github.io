@@ -26,12 +26,12 @@ author_profile: true
 
 **Ongoing Projects**
 
-* Mauri, L., Tokdar, S. T. and Wang, H. (2024+). 
+* Mauri, L., Tokdar, S. T. and Wang, H. (2024+). (a-z)
 **Bayesian Density Estimation via the Tree-Logistic Gaussian Process Prior.**
 *Working Paper*.
 
 * Mauri, L., Anceschi, N., and Dunson, D. B. (2024+).
-**Spectral decompositions-assisted Bayesian multi-study factor models.**
+**Spectral decomposition-assisted multi-study factor models.**
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2024+),
