@@ -22,7 +22,11 @@ author_profile: true
 
 * Mauri, L. and Dunson, D. B. (2024+).
 **Factor pre-training in Bayesian multivariate logistic models.**
-*Submitted* ([arxiv](https://arxiv.org/abs/2409.17441)).
+*Under Revision* ([arxiv](https://arxiv.org/abs/2409.17441)).
+
+* Mauri, L., Anceschi, N., and Dunson, D. B. (2024+).
+**Spectral decomposition-assisted multi-study factor models.**
+*Submitted*.
 
 **Ongoing Projects**
 
@@ -30,12 +34,12 @@ author_profile: true
 **Bayesian Density Estimation via the Tree-Logistic Gaussian Process Prior.**
 *Working Paper*.
 
-* Mauri, L., Anceschi, N., and Dunson, D. B. (2024+).
-**Spectral decomposition-assisted multi-study factor models.**
+* Mauri, L. and Dunson, D. B. (2024+),
+**Generalized Bayesian Kernel Similarity for Supervised Dimensionality Reduction.**
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2024+),
-**Generalized Bayesian Kernel Similarity for Supervised Dimensionality Reduction.**
+**Multi-omics factor analysis via spectral alignment.**
 *Working Paper*.
 
 
