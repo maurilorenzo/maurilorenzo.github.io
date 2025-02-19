@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, Duke University, 2022-Present.
-  * Supervisors: David B. Dunson and Surya T. Tokdar. 
+  * Supervisor: David B. Dunson. 
   * Topics: High-Dimensional Factor Models and Nonparametric Density Estimation.
   * GPA 4/4.
 * M.Sc. in Data Science, Bocconi University, 2021.
