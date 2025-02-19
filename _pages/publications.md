@@ -25,7 +25,7 @@ author_profile: true
 *Under Revision* ([arxiv](https://arxiv.org/abs/2409.17441)).
 
 * Mauri, L., Anceschi, N., and Dunson, D. B. (2024+).
-**Spectral decomposition-assisted multi-study factor models.**
+**Spectral decomposition-assisted multi-study factor analysis.**
 *Submitted*.
 
 **Ongoing Projects**
