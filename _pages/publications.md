@@ -40,14 +40,16 @@ author_profile: true
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+),
-**An eigedecomposition approach to modeling multi-omics data.**
+**EigenBayes: Inference on covariance structure in high-dimensional multiview data.**
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+),
 **Empirical Bayes for pooled low-rank covariance estimation.**
 *Working Paper*.
 
-
+* Mauri, L., Stolf, F., Herring, A. H., and Dunson, D. B. (2025+),
+**Pathways-based Bayesian factor model for gene expression data.**
+*Working Paper*.
 
 
 
