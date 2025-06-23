@@ -18,12 +18,12 @@ author_profile: true
 **Robust Approximate Sampling via Stochastic Gradient Barker Dynamics.**
 *International Conference on Artificial Intelligence and Statistics (AISTATS)*, Oral Presentation (2% of submissions) [[pdf](https://proceedings.mlr.press/v238/mauri24a/mauri24a.pdf)].
 
+* Mauri, L. and Dunson, D. B. (2025+).
+**Factor pre-training in Bayesian multivariate logistic models.**
+*Biometrika*, just accepted [[arxiv](https://arxiv.org/abs/2409.17441)].
+
 
 **Submitted**
-
-* Mauri, L. and Dunson, D. B. (2024).
-**Factor pre-training in Bayesian multivariate logistic models.**
-*Under Revision* [[arxiv](https://arxiv.org/abs/2409.17441)].
 
 * Mauri, L., Anceschi, N., and Dunson, D. B. (2025).
 **Spectral decomposition-assisted multi-study factor analysis.**
