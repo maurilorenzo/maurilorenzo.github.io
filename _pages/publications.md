@@ -40,7 +40,7 @@ author_profile: true
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+),
-**EigenBayes: Inference on covariance structure in high-dimensional multiview data.**
+**Inference on covariance structure in high-dimensional multiview data.**
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+),
