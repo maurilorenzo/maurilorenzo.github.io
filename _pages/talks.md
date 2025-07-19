@@ -19,7 +19,7 @@ author_profile: true
 *Robust Approximate Sampling via Stochastic Gradient Barker Dynamics*.
 
 * [DFCI](https://www.dfhcc.harvard.edu/), Dana-Farber Cancer Institute, Boston (MA) (Virtual, Apr 2, 2025).
-*Spectral decomposition-assisted multi-study factor analysis*.https://baysm2025.github.io/
+*Spectral decomposition-assisted multi-study factor analysis*.
 
 **Contributed talks**
 
