@@ -20,7 +20,7 @@ author_profile: true
 
 * Mauri, L. and Dunson, D. B. (2025+).
 **Factor pre-training in Bayesian multivariate logistic models.**
-*Biometrika*, just accepted [[arxiv](https://arxiv.org/abs/2409.17441)].
+*Biometrika*, asaf056 [[arxiv](https://arxiv.org/abs/2409.17441)].
 
 
 **Submitted**
