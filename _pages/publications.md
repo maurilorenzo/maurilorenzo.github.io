@@ -29,25 +29,21 @@ author_profile: true
 **Spectral decomposition-assisted multi-study factor analysis.**
 *Submitted* [[arxiv](https://arxiv.org/abs/2502.14600)].
 
-**Ongoing Projects**
+* Mauri, L. and Dunson, D. B. (2025+),
+**Inference on covariance structure in high-dimensional multiview data.**
+*Submitted*.
 
-* Mauri, L., Tokdar, S. T. and Wang, H. (a-z) (2025+).
-**Bayesian Density Estimation via the Tree-Logistic Gaussian Process Prior.**
-*Working Paper*.
+**Ongoing Projects**
 
 * Mauri, L. and Dunson, D. B. (2025+),
 **Generalized Bayesian Kernel Similarity for Supervised Dimensionality Reduction.**
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+),
-**Inference on covariance structure in high-dimensional multiview data.**
+**Hierarchical subspace shrinkage for covariance estimation.**
 *Working Paper*.
 
-* Mauri, L. and Dunson, D. B. (2025+),
-**Empirical Bayes for pooled low-rank covariance estimation.**
-*Working Paper*.
-
-* Mauri, L., Stolf, F., Herring, A. H., and Dunson, D. B. (2025+),
+* Mauri, L., Stolf, F., Herring, A. H., Miller, C., and Dunson, D. B. (2025+),
 **Pathways-based Bayesian factor model for gene expression data.**
 *Working Paper*.
 
