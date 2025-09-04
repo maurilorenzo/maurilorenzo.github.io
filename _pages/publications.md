@@ -31,7 +31,7 @@ author_profile: true
 
 * Mauri, L. and Dunson, D. B. (2025+),
 **Inference on covariance structure in high-dimensional multiview data.**
-*Submitted*.
+*Submitted* [[arxiv]](https://arxiv.org/abs/2509.02772).
 
 **Ongoing Projects**
 
