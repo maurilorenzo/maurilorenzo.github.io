@@ -15,7 +15,7 @@ author_profile: true
 **Publications**
 
 * Mauri, L. and Zanella, G. (2024).
-**Robust Approximate Sampling via Stochastic Gradient Barker Dynamics.**
+**Robust approximate sampling via stochastic gradient Barker dynamics.**
 *International Conference on Artificial Intelligence and Statistics (AISTATS)*, Oral Presentation (2% of submissions) [[pdf](https://proceedings.mlr.press/v238/mauri24a/mauri24a.pdf)].
 
 * Mauri, L. and Dunson, D. B. (2025+).
@@ -36,11 +36,11 @@ author_profile: true
 **Ongoing Projects**
 
 * Mauri, L. and Dunson, D. B. (2025+),
-**Generalized Bayesian Kernel Similarity for Supervised Dimensionality Reduction.**
+**Generalized Bayesian kernel similarity for supervised dimensionality reduction.**
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+),
-**Hierarchical subspace shrinkage for covariance estimation of grouped data.**
+**Hierarchical subspace shrinkage for covariance estimation of high-dimensional grouped data.**
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+),
