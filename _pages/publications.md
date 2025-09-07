@@ -40,7 +40,11 @@ author_profile: true
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+),
-**Hierarchical subspace shrinkage for covariance estimation.**
+**Hierarchical subspace shrinkage for covariance estimation of grouped data.**
+*Working Paper*.
+
+* Mauri, L. and Dunson, D. B. (2025+),
+**A Bayesian decision theoretic approach to sparse precision estimation.**
 *Working Paper*.
 
 * Mauri, L., Stolf, F., Herring, A. H., Miller, C., and Dunson, D. B. (2025+),
