@@ -47,11 +47,11 @@ author_profile: true
 **A Bayesian decision theoretic approach to sparse precision estimation.**
 *Working Paper*.
 
-* Mauri, L., Stolf, F., Herring, A. H., Miller, C., and Dunson, D. B. (2025+),
+* Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2025+),
 **Pathways-based Bayesian factor model for gene expression data.**
 *Working Paper*.
 
-
+° denotes equal contribution
 
 
 
