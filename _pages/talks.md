@@ -18,8 +18,6 @@ author_profile: true
 * [AISTATS2024](http://aistats.org/aistats2024/), The 27th International Conference on Artificial Intelligence and Statistics, Valencia, Spain (May 1-4, 2024).
 *Robust Approximate Sampling via Stochastic Gradient Barker Dynamics*.
 
-* [DFCI](https://www.dfhcc.harvard.edu/), Dana-Farber Cancer Institute, Boston (MA) (Virtual, Apr 2, 2025).
-*Spectral decomposition-assisted multi-study factor analysis*.
 
 **Contributed talks**
 
