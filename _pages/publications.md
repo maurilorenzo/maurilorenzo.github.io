@@ -29,7 +29,7 @@ author_profile: true
 **Spectral decomposition-assisted multi-study factor analysis.**
 *Submitted* [[arxiv](https://arxiv.org/abs/2502.14600)].
 
-* Mauri, L. and Dunson, D. B. (2025+).
+* Mauri, L. and Dunson, D. B. (2025+)
 **Inference on covariance structure in high-dimensional multiview data.**
 *Submitted* [[arxiv](https://arxiv.org/abs/2509.02772)].
 
