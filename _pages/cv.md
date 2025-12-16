@@ -33,7 +33,7 @@ Teaching Experience
 * TA for Theory of Statistical Inference (DUKE STA - 532), Spring '24.
 * Instructor for Duke Statistical Science Master Students Math Bootcamp, Summer '24 & '25.
 * TA for Theory and Methods of Statistical Learning and Inference (DUKE STA - 432), Spring '25.
-* TA for Design of Surveys and Causal Studies (Duke STA 322/522), Fall '25.
+* TA for Design of Surveys and Causal Studies (Duke STA - 322/522), Fall '25.
 
 
 Professional Experience
