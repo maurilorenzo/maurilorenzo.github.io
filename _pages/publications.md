@@ -14,24 +14,25 @@ author_profile: true
 
 **Publications**
 
-* Mauri, L. and Zanella, G. (2024)
-**Robust approximate sampling via stochastic gradient Barker dynamics.**
-*International Conference on Artificial Intelligence and Statistics (AISTATS)*, Oral Presentation (2% of submissions) [[pdf](https://proceedings.mlr.press/v238/mauri24a/mauri24a.pdf)].
-
 * Mauri, L. and Dunson, D. B. (2025+)
 **Factor pre-training in Bayesian multivariate logistic models.**
 *Biometrika*, asaf056 [[article](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf056/8209919)] [[arxiv](https://arxiv.org/abs/2409.17441)].
 
+* Mauri, L. and Zanella, G. (2024)
+**Robust approximate sampling via stochastic gradient Barker dynamics.**
+*International Conference on Artificial Intelligence and Statistics (AISTATS)*, Oral Presentation (2% of submissions) [[pdf](https://proceedings.mlr.press/v238/mauri24a/mauri24a.pdf)].
+
 
 **Submitted**
+
+* Mauri, L. and Dunson, D. B. (2025+)
+**Inference on covariance structure in high-dimensional multiview data.**
+*Under revision* [[arxiv](https://arxiv.org/abs/2509.02772)].
 
 * Mauri, L., Anceschi, N., and Dunson, D. B. (2025)
 **Spectral decomposition-assisted multi-study factor analysis.**
 *Under revision* [[arxiv](https://arxiv.org/abs/2502.14600)].
 
-* Mauri, L. and Dunson, D. B. (2025+)
-**Inference on covariance structure in high-dimensional multiview data.**
-*Under revision* [[arxiv](https://arxiv.org/abs/2509.02772)].
 
 **Ongoing Projects**
 
