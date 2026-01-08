@@ -35,27 +35,27 @@ author_profile: true
 
 **Ongoing Projects**
 
-* Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2025+)
+* Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026+)
 **Pathway-based Bayesian factor model for gene expression data.**
 *Working Paper*.
 
-* Mauri, L. and Dunson, D. B. (2025+)
+* Mauri, L. and Dunson, D. B. (2026+)
 **EigenBayes: Bayesian infinite factor models via adaptive spectral shrinkage.**
 *Working Paper*.
 
-* Mauri, L.  (2025+)
+* Mauri, L.  (2026+)
 **Empirical Bayes subspace shrinkage for pooled covariance inference.**
 *Working Paper*.
 
-* Mauri, L., Ferrari, F., Johnson, M., Gleich, S., Skomsky, D. and Liaw, A. (2025+)
+* Mauri, L., Ferrari, F., Johnson, M., Gleich, S., Skomsky, D. and Liaw, A. (2026+)
 **Bayesian modeling of predictive stability under generalized Arrhenius non-linear kinetics.**
 *Working Paper*.
 
-* Mauri, L. and Dunson, D. B. (2025+)
+* Mauri, L. and Dunson, D. B. (2026+)
 **Learning Predictive Low-Dimensional Representations for Complex Biological Data: a similarity-based approach to supervised dimensionality reduction.**
 *Working Paper*.
 
-* Mauri, L. and Dunson, D. B. (2025+)
+* Mauri, L. and Dunson, D. B. (2026+)
 **A Bayesian decision theoretic approach to sparse precision estimation.**
 *Working Paper*.
 
