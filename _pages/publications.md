@@ -52,7 +52,7 @@ author_profile: true
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+)
-**Learning Predictive Low-Dimensional Representations for Complex Biological Data: a similarity-based approach to supervised dimensionality reduction**
+**Learning Predictive Low-Dimensional Representations for Complex Biological Data: a similarity-based approach to supervised dimensionality reduction.**
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2025+)
