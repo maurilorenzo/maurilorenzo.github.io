@@ -35,7 +35,7 @@ author_profile: true
 
 * Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026)
 **Pathway-based Bayesian factor model for gene expression data.**
-*Submitted* [[arXiv]](https://arxiv.org/abs/2601.13419).
+*Submitted* [[arXiv](https://arxiv.org/abs/2601.13419)].
 
 
 **Ongoing Projects**
