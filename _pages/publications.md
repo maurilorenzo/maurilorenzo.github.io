@@ -16,7 +16,7 @@ author_profile: true
 
 * Mauri, L. and Dunson, D. B. (2025+)
 **Factor pre-training in Bayesian multivariate logistic models.**
-*Biometrika*, asaf056 [[article](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf056/8209919)] [[arxiv](https://arxiv.org/abs/2409.17441)].
+*Biometrika*, asaf056 [[article](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf056/8209919)] [[arXiv](https://arxiv.org/abs/2409.17441)].
 
 * Mauri, L. and Zanella, G. (2024)
 **Robust approximate sampling via stochastic gradient Barker dynamics.**
@@ -25,20 +25,21 @@ author_profile: true
 
 **Submitted**
 
-* Mauri, L. and Dunson, D. B. (2025+)
+* Mauri, L. and Dunson, D. B. (2025)
 **Inference on covariance structure in high-dimensional multiview data.**
-*Under revision* [[arxiv](https://arxiv.org/abs/2509.02772)].
+*Under revision* [[arXiv](https://arxiv.org/abs/2509.02772)].
 
 * Mauri, L., Anceschi, N., and Dunson, D. B. (2025)
 **Spectral decomposition-assisted multi-study factor analysis.**
-*Under revision* [[arxiv](https://arxiv.org/abs/2502.14600)].
+*Under revision* [[arXiv](https://arxiv.org/abs/2502.14600)].
+
+* Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026)
+**Pathway-based Bayesian factor model for gene expression data.**
+*Submitted* [[arXiv]] (https://arxiv.org/abs/2601.13419).
 
 
 **Ongoing Projects**
 
-* Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026+)
-**Pathway-based Bayesian factor model for gene expression data.**
-*Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2026+)
 **EigenBayes: Bayesian infinite factor models via adaptive spectral shrinkage.**
