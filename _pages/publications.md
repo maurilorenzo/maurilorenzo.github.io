@@ -25,6 +25,10 @@ author_profile: true
 
 **Submitted**
 
+* Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026)
+**Pathway-based Bayesian factor model for gene expression data.**
+*Submitted* [[arXiv](https://arxiv.org/abs/2601.13419)].
+
 * Mauri, L. and Dunson, D. B. (2025)
 **Inference on covariance structure in high-dimensional multiview data.**
 *Under revision* [[arXiv](https://arxiv.org/abs/2509.02772)].
@@ -33,20 +37,16 @@ author_profile: true
 **Spectral decomposition-assisted multi-study factor analysis.**
 *Under revision* [[arXiv](https://arxiv.org/abs/2502.14600)].
 
-* Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026)
-**Pathway-based Bayesian factor model for gene expression data.**
-*Submitted* [[arXiv](https://arxiv.org/abs/2601.13419)].
-
 
 **Ongoing Projects**
 
 
 * Mauri, L. and Dunson, D. B. (2026+)
-**EigenBayes: Bayesian infinite factor models via adaptive spectral shrinkage.**
+**Overfitted factor models via adaptive spectral regularization.**
 *Working Paper*.
 
 * Mauri, L.  (2026+)
-**Empirical Bayes subspace shrinkage for pooled covariance inference.**
+**Hierarchical spectral estimation via subspace shrinkage.**
 *Working Paper*.
 
 * Mauri, L., Ferrari, F., Johnson, M., Gleich, S., Skomsky, D. and Liaw, A. (2026+)
@@ -58,7 +58,7 @@ author_profile: true
 *Working Paper*.
 
 * Mauri, L. and Dunson, D. B. (2026+)
-**A Bayesian decision theoretic approach to sparse precision estimation.**
+**Sparse precision estimation via Bayesian decoupling.**
 *Working Paper*.
 
 
