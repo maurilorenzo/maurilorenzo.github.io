@@ -42,7 +42,7 @@ author_profile: true
 
 
 * Mauri, L. and Dunson, D. B. (2026+)
-**Overfitted factor models via adaptive spectral regularization.**
+**Overfitted matrix factorizations via adaptive spectral regularization.**
 *Working Paper*.
 
 * Mauri, L.  (2026+)
