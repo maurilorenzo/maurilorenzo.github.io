@@ -20,7 +20,7 @@ author_profile: true
 
 * Mauri, L. and Dunson, D. B. (2025)
 **Factor pre-training in Bayesian multivariate logistic models.**
-*Biometrika*, asaf056 [[article](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf056/8209919)] [[arXiv](https://arxiv.org/abs/2409.17441)].
+*Biometrika* 112 (4), asaf056 [[article](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf056/8209919)] [[arXiv](https://arxiv.org/abs/2409.17441)].
 
 * Mauri, L. and Zanella, G. (2024)
 **Robust approximate sampling via stochastic gradient Barker dynamics.**
@@ -46,10 +46,10 @@ author_profile: true
 *Working Paper*.
 
 * Mauri, L.  (2026+)
-**Hierarchical spectral estimation via subspace shrinkage.**
+**Empirical-Bayes partial pooling of eigenspaces across related high-dimensional learning tasks.**
 *Working Paper*.
 
-* Mauri, L., Ferrari, F., Johnson, M., Gleich, S., Skomsky, D. and Liaw, A. (2026+)
+* Mauri, L., Johnson, M., Gleich, S., Skomsky, D., Liaw, A., and Ferrari, F. (2026+)
 **Bayesian modeling of predictive stability under generalized Arrhenius non-linear kinetics.**
 *Working Paper*.
 
