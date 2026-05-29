@@ -30,7 +30,7 @@ author_profile: true
 **Submitted**
 
 * Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026)
-**Pathway-based Bayesian factor model for gene expression data.**
+**Pathway-based Bayesian factor model for 'omics data.**
 *Submitted* [[arXiv](https://arxiv.org/abs/2601.13419)].
 
 * Mauri, L., Anceschi, N., and Dunson, D. B. (2025)
