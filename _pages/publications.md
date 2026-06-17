@@ -16,7 +16,7 @@ author_profile: true
 
 * Mauri, L. and Dunson, D. B. (2026+)
 **Inference on covariance structure in high-dimensional multiview data.**
-*Biometrika*, just accepted [[arXiv](https://arxiv.org/abs/2509.02772)].
+*Biometrika*, asag038, [[arXiv](https://arxiv.org/abs/2509.02772)].
 
 * Mauri, L. and Dunson, D. B. (2025)
 **Factor pre-training in Bayesian multivariate logistic models.**
@@ -29,21 +29,21 @@ author_profile: true
 
 **Submitted**
 
-* Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026)
+* Mauri, L. and Dunson, D. B. (2026+)
+**Overfitted high-dimensional matrix factorizations via adaptive spectral shrinkage.**
+*Submitted*.
+
+* Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026+)
 **Pathway-based Bayesian factor model for 'omics data.**
 *Submitted* [[arXiv](https://arxiv.org/abs/2601.13419)].
 
-* Mauri, L., Anceschi, N., and Dunson, D. B. (2025)
+* Mauri, L., Anceschi, N., and Dunson, D. B. (2025+)
 **Spectral decomposition-assisted multi-study factor analysis.**
 *Under revision* [[arXiv](https://arxiv.org/abs/2502.14600)].
 
 
 **Ongoing Projects**
 
-
-* Mauri, L. and Dunson, D. B. (2026+)
-**Overfitted matrix factorizations via adaptive spectral regularization.**
-*Working Paper*.
 
 * Mauri, L.  (2026+)
 **Empirical-Bayes partial pooling of eigenspaces across related high-dimensional learning tasks.**
