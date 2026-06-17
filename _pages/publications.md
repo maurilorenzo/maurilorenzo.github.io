@@ -16,7 +16,7 @@ author_profile: true
 
 * Mauri, L. and Dunson, D. B. (2026+)
 **Inference on covariance structure in high-dimensional multiview data.**
-*Biometrika*, asag038, [[arXiv](https://arxiv.org/abs/2509.02772)].
+*Biometrika*, asag038 [[arXiv](https://arxiv.org/abs/2509.02772)].
 
 * Mauri, L. and Dunson, D. B. (2025)
 **Factor pre-training in Bayesian multivariate logistic models.**
