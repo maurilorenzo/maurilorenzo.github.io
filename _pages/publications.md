@@ -31,7 +31,7 @@ author_profile: true
 
 * Mauri, L. and Dunson, D. B. (2026+)
 **Overfitted high-dimensional matrix factorizations via adaptive spectral shrinkage.**
-*Submitted*.
+*Submitted*  [[arXiv](https://arxiv.org/abs/2606.19540)].
 
 * Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026+)
 **Pathway-based Bayesian factor model for 'omics data.**
