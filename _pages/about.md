@@ -21,9 +21,9 @@ Research Interests
 ======
 
 * **High-dimensional inference**, **representation learning**, and **latent variable modeling**
+* **Data integration** and **transfer learning** (e.g. multi-study, multi-omics)
 * **Scalable Bayesian computation**
 * **Generalized Bayes** and **uncertainty quantification**
-* **Data integration** and **transfer learning** (e.g. multi-study, multi-omics)
 * Applications in **genomics**, **computational biology**, **pharmaceutical development**, and **statistical ecology**
 
 
