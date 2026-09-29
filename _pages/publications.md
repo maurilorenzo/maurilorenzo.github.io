@@ -27,7 +27,15 @@ author_profile: true
 *International Conference on Artificial Intelligence and Statistics (AISTATS)*, Oral Presentation (2% of submissions) [[pdf](https://proceedings.mlr.press/v238/mauri24a/mauri24a.pdf)].
 
 
-**Submitted**
+**Preprints and submitted work**
+
+* Mauri, L.  (2026+)
+**Empirical-Bayes hierarchical spectral shrinkage across related tasks.**
+*Available upon request*.
+
+* Mauri, L., Johnson, M., Gleich, S., Skomsky, D., Liaw, A., and Ferrari, F. (2026+)
+**Bayesian modeling of predictive stability under generalized Arrhenius non-linear kinetics.**
+*Available upon request*.
 
 * Mauri, L. and Dunson, D. B. (2026+)
 **Overfitted high-dimensional matrix factorizations via adaptive spectral shrinkage.**
@@ -44,24 +52,25 @@ author_profile: true
 
 **Ongoing Projects**
 
+* Mauri, L. and Dunson, D. B. (2026+)
+**Similarity-based learning of predictive low-dimensional representation.**
+*In preparation (expected submission: Oct '26)*.
+
+* Mauri, L., Chen, J., and Dunson, D. B. (2026+)
+**Bayesian decoupling for sparse graphical models.**
+*In preparation*.
 
 * Mauri, L.  (2026+)
-**Empirical-Bayes partial pooling of eigenspaces across related high-dimensional learning tasks.**
-*Working Paper*.
+**AI-driven inference on gene-gene dependence.**
+*In preparation*.
 
-* Mauri, L., Johnson, M., Gleich, S., Skomsky, D., Liaw, A., and Ferrari, F. (2026+)
-**Bayesian modeling of predictive stability under generalized Arrhenius non-linear kinetics.**
-*Working Paper*.
+* Mauri, L., Tikhonov, G., Scherting, B., Roslin, T., Dunson, D. B., and Ovaskainen, O. (2026+)
+**Stepping up to the task: an evaluation of the scalability of species distribution models.**
+*In preparation*.
 
-* Mauri, L. and Dunson, D. B. (2026+)
-**Learning Predictive Low-Dimensional Representations for Complex Biological Data: a similarity-based approach to supervised dimensionality reduction.**
-*Working Paper*.
-
-* Mauri, L. and Dunson, D. B. (2026+)
-**Sparse precision estimation via Bayesian decoupling.**
-*Working Paper*.
-
-
+* Mauri, L.°, Stolf, F.°, Herring, A. H., Rubach, M. P., and Dunson, D. B. (2026+)
+**Interpretable cancer subtype discovery via biologically structured clustering.**
+*In preparation*.
 
 ° denotes equal contribution
 
