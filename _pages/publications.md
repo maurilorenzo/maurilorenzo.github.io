@@ -14,7 +14,7 @@ author_profile: true
 
 **Publications**
 
-* Mauri, L. and Dunson, D. B. (2026+)
+* Mauri, L. and Dunson, D. B. (2026)
 **Inference on covariance structure in high-dimensional multiview data.**
 *Biometrika* 113 (3), asag038 [[article](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asag038/8711458?redirectedFrom=fulltext)] [[arXiv](https://arxiv.org/abs/2509.02772)].
 
@@ -43,7 +43,7 @@ author_profile: true
 
 * Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026+)
 **Pathway-based Bayesian factor model for omics data.**
-*Submitted* [[arXiv](https://arxiv.org/abs/2601.13419)].
+Under invided revision at *Journal of the American Statistical Association* [[arXiv](https://arxiv.org/abs/2601.13419)].
 
 * Mauri, L., Anceschi, N., and Dunson, D. B. (2025+)
 **Spectral decomposition-assisted multi-study factor analysis.**
