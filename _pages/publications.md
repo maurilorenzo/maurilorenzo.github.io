@@ -30,8 +30,8 @@ author_profile: true
 **Preprints and submitted work**
 
 * Mauri, L.  (2026+)
-**Empirical-Bayes hierarchical spectral shrinkage across related tasks.**
-*Available upon request*.
+**Empirical-Bayes spectral partial pooling across related tasks.**
+*Submitted* [[arXiv](https://arxiv.org/abs/2610.07284)].
 
 * Mauri, L., Johnson, M., Gleich, S., Skomsky, D., Liaw, A., and Ferrari, F. (2026+)
 **Bayesian modeling of predictive stability under generalized Arrhenius non-linear kinetics.**
@@ -42,7 +42,7 @@ author_profile: true
 *Submitted*  [[arXiv](https://arxiv.org/abs/2606.19540)].
 
 * Mauri, L.°, Stolf, F.°, Herring, A. H., Miller, C., and Dunson, D. B. (2026+)
-**Pathway-based Bayesian factor model for 'omics data.**
+**Pathway-based Bayesian factor model for omics data.**
 *Submitted* [[arXiv](https://arxiv.org/abs/2601.13419)].
 
 * Mauri, L., Anceschi, N., and Dunson, D. B. (2025+)
