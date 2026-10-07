@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Duke University, 2022-Present.
+* Ph.D in Statistics, Duke University, 2022-2027 (expected).
   * Supervisor: David B. Dunson. 
-  * Topics: probabilistic matrix factorizations, latent variable modeling, scalable Bayesian computation.
+  * Topics: Representation learning, latent variable modeling, data integration, scalable Bayesian computation.
   * GPA 4/4.
 * M.Sc. in Data Science, Bocconi University, 2021.
   * Grade: 110/110 with Honors. Supervisor: Giacomo Zanella.
