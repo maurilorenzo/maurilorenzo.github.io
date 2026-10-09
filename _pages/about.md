@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lorenzo Mauri"
+title: "Lorenzo Mauri | Statistics PhD Candidate at Duke"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
