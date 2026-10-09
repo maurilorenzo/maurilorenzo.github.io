@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lorenzo Mauri"
 title_separator          : "-"
-name                     : &name "Lorenzo Mauri"
+name                     : &name "Lorenzo Mauri | Statistics PhD Candidate at Duke"
 description              : &description "personal description"
 url                      : https://maurilorenzo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
