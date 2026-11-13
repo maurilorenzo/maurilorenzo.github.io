@@ -33,9 +33,9 @@ author_profile: true
 **Empirical-Bayes spectral partial pooling across related tasks.**
 *Submitted* [[arXiv](https://arxiv.org/abs/2610.07284)].
 
-* Mauri, L., Johnson, M., Gleich, S., Skomsky, D., Liaw, A., and Ferrari, F. (2026+)
+* Mauri, L., Gleich, S., Johnson, M., Liaw, A., Skomsky, D., and Ferrari, F. (2026+)
 **Bayesian modeling of predictive stability under generalized Arrhenius non-linear kinetics.**
-*Available upon request*.
+*Submitted* [[arXiv](https://arxiv.org/abs/2611.17264)].
 
 * Mauri, L. and Dunson, D. B. (2026+)
 **Overfitted high-dimensional matrix factorizations via adaptive spectral shrinkage.**
