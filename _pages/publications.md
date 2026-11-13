@@ -69,7 +69,15 @@ Under invided revision at *Journal of the American Statistical Association* [[ar
 *In preparation*.
 
 * Mauri, L.°, Stolf, F.°, Herring, A. H., Rubach, M. P., and Dunson, D. B. (2026+)
-**Interpretable cancer subtype discovery via biologically structured clustering.**
+**Interpretable cancer subtype discovery via knowledge-guided clustering.**
+*In preparation*.
+
+* Mauri, L.°, Stolf, F.°, Herring, A. H., Rubach, M. P., and Dunson, D. B. (2026+)
+**Linking molecular and clinical heterogeneity via biologically structured latent variable models: a study of sepsis in Tanzania.**
+*In preparation*.
+
+* Mauri, L.°, Ghilotti, L., Stolf, F., and Dunson, D. B. (2026+)
+**Probabilistic discovery of gene pathways.**
 *In preparation*.
 
 ° denotes equal contribution
